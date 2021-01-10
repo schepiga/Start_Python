@@ -1,6 +1,6 @@
 
 my_list = []
-n = 3
+n = 4
 for i in range(n):
     i = input('Введите элементы списка')
     my_list.append(i)
